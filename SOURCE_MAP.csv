@@ -1,0 +1,4 @@
+source_archive,original_filename,new_path
+drive-download-20260921T142043Z-1-001.zip,Permanent Custom Formula.ipynb,notebooks/01_structured_circulant_formula.ipynb
+drive-download-20260921T142043Z-1-001.zip,Research permanent.ipynb,notebooks/02_permanent_algorithm_experiments.ipynb
+drive-download-20260921T142043Z-1-001.zip,Per(A+B) formula.ipynb,notebooks/03_permanent_sum_expansion.ipynb
